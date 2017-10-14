@@ -9,7 +9,7 @@ public class UserDetails {
 	    @Id
 	    private int id;
 	    private String repos;
-	    private String username;
+	   	    private String username;
 	    private String url;
 	    
 	    
